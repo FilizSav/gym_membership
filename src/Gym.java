@@ -40,6 +40,9 @@ public class Gym {
                 System.out.println(premiumMember);
             }
             System.out.println("--------------------------------------");
+
+
+
         }
     }
 }
